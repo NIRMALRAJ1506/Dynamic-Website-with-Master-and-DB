@@ -1,0 +1,55 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="SiteMaster.master.cs" Inherits="Dynamic_Website_with_Master_page_and_Db.SiteMaster" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <link href="OurStyle.css" rel="stylesheet" />
+    <style type="text/css">
+        .auto-style1 {
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div class="topPanel"><h1>Articles Website</h1></div>
+        <div class="leftPanel"><h2>Articles<table class="auto-style1">
+            <tr>
+                <td>
+                    <marquee>
+                    <asp:Image ID="Image1" runat="server" ImageUrl="~/Images/article 1.jpg" />
+                    <asp:Image ID="Image2" runat="server" ImageUrl="~/Images/article 2.jpg" />
+                    <asp:Image ID="Image3" runat="server" ImageUrl="~/Images/article 3.jpg" />
+                    <asp:Image ID="Image4" runat="server" ImageUrl="~/Images/article 4.jpg" />
+                    </marquee>
+                </td>
+            </tr>
+            </table>
+            </h2></div>
+        <div class="centerPanel">
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                <h1>
+                   Welcome To Our Website </h1>
+            </asp:ContentPlaceHolder>
+        </div>
+        <div class="rightPanel"><h2>Menu<table class="auto-style1">
+            <tr>
+                <td>
+                    <asp:HyperLink ID="HyperLink1" runat="server" NavigateUrl="~/Home.aspx">Home</asp:HyperLink>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <asp:HyperLink ID="HyperLink2" runat="server" NavigateUrl="~/Articles.aspx">Articles</asp:HyperLink>
+                </td>
+            </tr>
+            </table>
+            </h2></div>
+        <div class="footer"><h2>ourwebsite <span style="color: rgb(32, 33, 36); font-family: &quot;Google Sans&quot;, arial, sans-serif; font-size: 32px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;">©</span>2023</h2></div>
+    </form>
+</body>
+</html>

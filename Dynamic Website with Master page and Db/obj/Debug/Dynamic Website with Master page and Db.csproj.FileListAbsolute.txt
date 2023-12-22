@@ -1,0 +1,59 @@
+C:\Mphasis Db connectivity\Day 12\Dynamic Website with Master page and Db\Dynamic Website with Master page and Db\bin\Dynamic Website with Master page and Db.dll.config
+C:\Mphasis Db connectivity\Day 12\Dynamic Website with Master page and Db\Dynamic Website with Master page and Db\bin\Dynamic Website with Master page and Db.dll
+C:\Mphasis Db connectivity\Day 12\Dynamic Website with Master page and Db\Dynamic Website with Master page and Db\bin\Dynamic Website with Master page and Db.pdb
+C:\Mphasis Db connectivity\Day 12\Dynamic Website with Master page and Db\Dynamic Website with Master page and Db\bin\roslyn\csc.exe
+C:\Mphasis Db connectivity\Day 12\Dynamic Website with Master page and Db\Dynamic Website with Master page and Db\bin\roslyn\csc.exe.config
+C:\Mphasis Db connectivity\Day 12\Dynamic Website with Master page and Db\Dynamic Website with Master page and Db\bin\roslyn\csc.rsp
+C:\Mphasis Db connectivity\Day 12\Dynamic Website with Master page and Db\Dynamic Website with Master page and Db\bin\roslyn\csi.exe
+C:\Mphasis Db connectivity\Day 12\Dynamic Website with Master page and Db\Dynamic Website with Master page and Db\bin\roslyn\csi.exe.config
+C:\Mphasis Db connectivity\Day 12\Dynamic Website with Master page and Db\Dynamic Website with Master page and Db\bin\roslyn\csi.rsp
+C:\Mphasis Db connectivity\Day 12\Dynamic Website with Master page and Db\Dynamic Website with Master page and Db\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Mphasis Db connectivity\Day 12\Dynamic Website with Master page and Db\Dynamic Website with Master page and Db\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Mphasis Db connectivity\Day 12\Dynamic Website with Master page and Db\Dynamic Website with Master page and Db\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Mphasis Db connectivity\Day 12\Dynamic Website with Master page and Db\Dynamic Website with Master page and Db\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Mphasis Db connectivity\Day 12\Dynamic Website with Master page and Db\Dynamic Website with Master page and Db\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Mphasis Db connectivity\Day 12\Dynamic Website with Master page and Db\Dynamic Website with Master page and Db\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Mphasis Db connectivity\Day 12\Dynamic Website with Master page and Db\Dynamic Website with Master page and Db\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Mphasis Db connectivity\Day 12\Dynamic Website with Master page and Db\Dynamic Website with Master page and Db\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Mphasis Db connectivity\Day 12\Dynamic Website with Master page and Db\Dynamic Website with Master page and Db\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Mphasis Db connectivity\Day 12\Dynamic Website with Master page and Db\Dynamic Website with Master page and Db\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Mphasis Db connectivity\Day 12\Dynamic Website with Master page and Db\Dynamic Website with Master page and Db\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Mphasis Db connectivity\Day 12\Dynamic Website with Master page and Db\Dynamic Website with Master page and Db\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Mphasis Db connectivity\Day 12\Dynamic Website with Master page and Db\Dynamic Website with Master page and Db\bin\roslyn\System.AppContext.dll
+C:\Mphasis Db connectivity\Day 12\Dynamic Website with Master page and Db\Dynamic Website with Master page and Db\bin\roslyn\System.Collections.Immutable.dll
+C:\Mphasis Db connectivity\Day 12\Dynamic Website with Master page and Db\Dynamic Website with Master page and Db\bin\roslyn\System.Console.dll
+C:\Mphasis Db connectivity\Day 12\Dynamic Website with Master page and Db\Dynamic Website with Master page and Db\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Mphasis Db connectivity\Day 12\Dynamic Website with Master page and Db\Dynamic Website with Master page and Db\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Mphasis Db connectivity\Day 12\Dynamic Website with Master page and Db\Dynamic Website with Master page and Db\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Mphasis Db connectivity\Day 12\Dynamic Website with Master page and Db\Dynamic Website with Master page and Db\bin\roslyn\System.Globalization.Calendars.dll
+C:\Mphasis Db connectivity\Day 12\Dynamic Website with Master page and Db\Dynamic Website with Master page and Db\bin\roslyn\System.IO.Compression.dll
+C:\Mphasis Db connectivity\Day 12\Dynamic Website with Master page and Db\Dynamic Website with Master page and Db\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Mphasis Db connectivity\Day 12\Dynamic Website with Master page and Db\Dynamic Website with Master page and Db\bin\roslyn\System.IO.FileSystem.dll
+C:\Mphasis Db connectivity\Day 12\Dynamic Website with Master page and Db\Dynamic Website with Master page and Db\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Mphasis Db connectivity\Day 12\Dynamic Website with Master page and Db\Dynamic Website with Master page and Db\bin\roslyn\System.Net.Http.dll
+C:\Mphasis Db connectivity\Day 12\Dynamic Website with Master page and Db\Dynamic Website with Master page and Db\bin\roslyn\System.Net.Sockets.dll
+C:\Mphasis Db connectivity\Day 12\Dynamic Website with Master page and Db\Dynamic Website with Master page and Db\bin\roslyn\System.Reflection.Metadata.dll
+C:\Mphasis Db connectivity\Day 12\Dynamic Website with Master page and Db\Dynamic Website with Master page and Db\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Mphasis Db connectivity\Day 12\Dynamic Website with Master page and Db\Dynamic Website with Master page and Db\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Mphasis Db connectivity\Day 12\Dynamic Website with Master page and Db\Dynamic Website with Master page and Db\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Mphasis Db connectivity\Day 12\Dynamic Website with Master page and Db\Dynamic Website with Master page and Db\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Mphasis Db connectivity\Day 12\Dynamic Website with Master page and Db\Dynamic Website with Master page and Db\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Mphasis Db connectivity\Day 12\Dynamic Website with Master page and Db\Dynamic Website with Master page and Db\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Mphasis Db connectivity\Day 12\Dynamic Website with Master page and Db\Dynamic Website with Master page and Db\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Mphasis Db connectivity\Day 12\Dynamic Website with Master page and Db\Dynamic Website with Master page and Db\bin\roslyn\System.ValueTuple.dll
+C:\Mphasis Db connectivity\Day 12\Dynamic Website with Master page and Db\Dynamic Website with Master page and Db\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Mphasis Db connectivity\Day 12\Dynamic Website with Master page and Db\Dynamic Website with Master page and Db\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Mphasis Db connectivity\Day 12\Dynamic Website with Master page and Db\Dynamic Website with Master page and Db\bin\roslyn\System.Xml.XPath.dll
+C:\Mphasis Db connectivity\Day 12\Dynamic Website with Master page and Db\Dynamic Website with Master page and Db\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Mphasis Db connectivity\Day 12\Dynamic Website with Master page and Db\Dynamic Website with Master page and Db\bin\roslyn\vbc.exe
+C:\Mphasis Db connectivity\Day 12\Dynamic Website with Master page and Db\Dynamic Website with Master page and Db\bin\roslyn\vbc.exe.config
+C:\Mphasis Db connectivity\Day 12\Dynamic Website with Master page and Db\Dynamic Website with Master page and Db\bin\roslyn\vbc.rsp
+C:\Mphasis Db connectivity\Day 12\Dynamic Website with Master page and Db\Dynamic Website with Master page and Db\bin\roslyn\VBCSCompiler.exe
+C:\Mphasis Db connectivity\Day 12\Dynamic Website with Master page and Db\Dynamic Website with Master page and Db\bin\roslyn\VBCSCompiler.exe.config
+C:\Mphasis Db connectivity\Day 12\Dynamic Website with Master page and Db\Dynamic Website with Master page and Db\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Mphasis Db connectivity\Day 12\Dynamic Website with Master page and Db\Dynamic Website with Master page and Db\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Mphasis Db connectivity\Day 12\Dynamic Website with Master page and Db\Dynamic Website with Master page and Db\obj\Debug\Dynamic Website with Master page and Db.csproj.AssemblyReference.cache
+C:\Mphasis Db connectivity\Day 12\Dynamic Website with Master page and Db\Dynamic Website with Master page and Db\obj\Debug\Dynamic Website with Master page and Db.csproj.CoreCompileInputs.cache
+C:\Mphasis Db connectivity\Day 12\Dynamic Website with Master page and Db\Dynamic Website with Master page and Db\obj\Debug\Dynamic Website with Master page and Db.csproj.CopyComplete
+C:\Mphasis Db connectivity\Day 12\Dynamic Website with Master page and Db\Dynamic Website with Master page and Db\obj\Debug\Dynamic Website with Master page and Db.dll
+C:\Mphasis Db connectivity\Day 12\Dynamic Website with Master page and Db\Dynamic Website with Master page and Db\obj\Debug\Dynamic Website with Master page and Db.pdb
